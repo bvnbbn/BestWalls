@@ -1,0 +1,7 @@
+#Mon Jan 16 01:07:24 IST 2017
+base.0=/home/vikas/Desktop/Animated2/Android/BestWalls/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d38d9df18e68f9b27d6a18fbdc9b33e3d8f7283d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/vikas/Desktop/Animated2/Android/BestWalls/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_22dd61d5fc204f102b3c1bf1849702a4db25c897/classes.dex
+base.1=/home/vikas/Desktop/Animated2/Android/BestWalls/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_22dd61d5fc204f102b3c1bf1849702a4db25c897
+file.0=/home/vikas/Desktop/Animated2/Android/BestWalls/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d38d9df18e68f9b27d6a18fbdc9b33e3d8f7283d/classes.dex

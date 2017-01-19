@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/usr/local/android-studio/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/home/vikas/Desktop/Animated2/Android/BestWalls/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_8cd7e65f7612a53d9b4b375eec76c9b6857fc72c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Animated2/Android/BestWalls/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/home/vikas/Desktop/Animated2/Android/BestWalls/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.0_2d21bd3a647ac1511d99fd33d7db632a70b79366/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Animated2/Android/BestWalls/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6741af8413f13b75084a03f9abb4d3e3c461b7e6">
+        <dex dex="/home/vikas/Desktop/Animated2/Android/BestWalls/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_22dd61d5fc204f102b3c1bf1849702a4db25c897/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Animated2/Android/BestWalls/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/home/vikas/Desktop/Animated2/Android/BestWalls/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.0_42c60f6227b42a5ed69ef614238dc1494bab923f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Animated2/Android/BestWalls/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/home/vikas/Desktop/Animated2/Android/BestWalls/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.0_54c91d1f2f1a2367a37f90de496a0edd22f1f42e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Animated2/Android/BestWalls/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="283dd5a4ffa909bb4f0be33302a8a79b1654d4cd">
+        <dex dex="/home/vikas/Desktop/Animated2/Android/BestWalls/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d38d9df18e68f9b27d6a18fbdc9b33e3d8f7283d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Animated2/Android/BestWalls/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/vikas/Desktop/Animated2/Android/BestWalls/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_a69d40fbb5ab9a154571130143950e13ec43d661/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Animated2/Android/BestWalls/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/vikas/Desktop/Animated2/Android/BestWalls/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_c0bf17f84792d6ff062953e46de5551ea201747c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Animated2/Android/BestWalls/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/home/vikas/Desktop/Animated2/Android/BestWalls/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.0_e710039cbae343cf670aa7b28d0559911e6b65dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Animated2/Android/BestWalls/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/home/vikas/Desktop/Animated2/Android/BestWalls/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.0_292af8b3cbceeffc9494469236ae3852dd279ad7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/home/vikas/Desktop/Animated2/Android/BestWalls/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.0_5037f27752d6156ea13f7fb0e39414ad618dd5e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/home/vikas/Desktop/Animated2/Android/BestWalls/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.19_4b0ac43e33a76ba6501cc3f7cd5f820e113f09f0/classes.dex" />
+    </item>
+
+</items>
